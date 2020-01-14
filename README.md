@@ -1,4 +1,4 @@
-##Blog UI
+Blog UI
 Front End App which allows users to view posts, check the authors and their respective posts and view comments related to each post
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
